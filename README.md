@@ -9,7 +9,7 @@
 
 ### Picture
 
-[[https://github.com/huan161299/Reversi_Game/blob/master/app/gameplay1.png|alt=gameplay1]]
+![image](https://github.com/huan161299/Reversi_Game/blob/master/app/gameplay1.png)
 
 - The game is available to play on Human vs Human, or Human vs Bot.
 
