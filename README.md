@@ -1,5 +1,6 @@
 ## Reversi_Game
 - A 6x6 Reversi Game programmed on Android Studio using Java.
+- You can download and play the game yourself [**here**](https://github.com/huan161299/Reversi_Game/blob/master/reversi_game.apk).
 
 ### Rules
 - There will be two player in each session of the game: One as a BLACK player, and the other is WHITE.
